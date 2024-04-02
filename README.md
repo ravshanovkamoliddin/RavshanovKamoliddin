@@ -21,4 +21,4 @@ QA Engineer man hamda Yuotuber man <br />
 <code><img src="https://miro.medium.com/v2/resize:fit:400/1*cxZhQbf-KuKU_wM8RGgofg.jpeg" width="30px"></code>
 
 - 🕹️ Current Location: Samarkan Uzabekistan
--  📱 How to reach me: [@RavshanovKamoliddin] (https://t.me/Ravshanov_Kamoliddin)
+-  📱 How to reach me: [@RavshanovKamoliddin](https://t.me/Ravshanov_Kamoliddin)
