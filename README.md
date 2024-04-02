@@ -16,4 +16,4 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br />
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBhbyU2Nnqw6KKkaNgdKrlKx1-uAzdfdoGMkVM_3DiQ&s" width="70px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsI_mqNgm2RLF-W4T-AoohRr7dKbjAy2XdBG5L9Cr46A&s" width="70px"></code>
+<code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code>
