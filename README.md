@@ -8,7 +8,6 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br />
 </a>
 
 <br />
-
 ### Languages and tools I work with:
 
 <code><img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="30px"></code>
@@ -17,6 +16,6 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br />
 <code><img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBhbyU2Nnqw6KKkaNgdKrlKx1-uAzdfdoGMkVM_3DiQ&s" width="70px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code> 
-<code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="25px"></code>
+<code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="22px"></code>
 
 <code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code>
