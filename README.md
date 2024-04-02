@@ -1,1 +1,1 @@
-### Assalomu alaaykum men Ravshanov Kamoliddin <img src="<iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0>" widh="30" >
+### Assalomu alaaykum men Ravshanov Kamoliddin <img src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0>" widh="30" >
