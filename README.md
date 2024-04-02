@@ -18,5 +18,4 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br />
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBhbyU2Nnqw6KKkaNgdKrlKx1-uAzdfdoGMkVM_3DiQ&s" width="70px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code> 
 <code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="22px"></code>
-
 <code><img src="https://miro.medium.com/v2/resize:fit:400/1*cxZhQbf-KuKU_wM8RGgofg.jpeg" width="30px"></code>
