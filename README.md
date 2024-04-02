@@ -3,7 +3,8 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br/>
 <a href="https://youtube.com/@RavshanovKamoliddin?si=j21kGGMSNsFO_uhQ">
 <img src="https://www.freeiconspng.com/uploads/classic-youtube-icon--2.png" width="40px">
 </a>
-<br/>
+
+<br />
 ### Languages and tools I work with:
 <code> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" height"30px"> <code>
 
