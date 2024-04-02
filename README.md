@@ -13,7 +13,7 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br />
 
 <code><img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="30px"></code>
 
-<code><img src="[https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png](https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc-thumbnail.png)" width="30px"></code>
+<code><img src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc-thumbnail.png" width="30px"></code>
 
 <code><img src="https://plugins.jetbrains.com/files/13691/387441/icon/pluginIcon.png" width="30px"></code>
 
