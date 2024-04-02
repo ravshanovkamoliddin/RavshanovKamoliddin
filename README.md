@@ -9,5 +9,5 @@ QA Engineer man hamda Yuotubda blog ham yuritaman <br/>
 
 ### Languages and tools I work with:
 
-<code> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" width"30px"> <code>
+<code><img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg"width"30px"></code>
 
