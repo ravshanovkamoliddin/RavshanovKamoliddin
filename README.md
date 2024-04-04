@@ -1,6 +1,6 @@
 ### Assalomu alaykum men Ravshanov Kamoliddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-QA Engineer man hamda Yuotubda blog ham yuritaman, o'rgangan bilimlarimni uzbek tilida ulashaman <br />
+QA Engineer man hamda Yuotubeda blog ham yuritaman, o'rgangan bilimlarimni uzbek tilida ulashish uchun <br />
 
 <a href="https://youtube.com/@RavshanovKamoliddin?si=j21kGGMSNsFO_uhQ">
 <img src="https://www.freeiconspng.com/uploads/classic-youtube-icon--2.png" width="40px">
