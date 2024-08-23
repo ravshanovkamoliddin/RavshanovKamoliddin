@@ -21,4 +21,4 @@ QA Engineer man hamda Yuotubeda blog ham yuritaman, o'rgangan bilimlarimni uzbek
 <code><img src="https://miro.medium.com/v2/resize:fit:400/1*cxZhQbf-KuKU_wM8RGgofg.jpeg" width="30px"></code>
 
 - 🕹️ Current Location: Samarqand Uzabekistan
--  📱 How to reach me: [@RavshanovKamoliddin]([https://t.me/kamoliddin_ravshan]))
+-  📱 How to reach me: [@kamoliddin_ravshan]([https://t.me/kamoliddin_ravshan]))
