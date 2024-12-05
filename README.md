@@ -1,6 +1,8 @@
-### Assalomu alaykum men Ravshanov Kamoliddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Assalomu alaykum I'm Ravshanov Kamoliddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-QA Engineer man hamda Yuotubeda blog ham yuritaman, o'rgangan bilimlarimni uzbek tilida ulashish uchun <br />
+I am a QA Engineer and also have a blog on YouTube, to share my knowledge in Uzbek language 
+
+<br />
 
 <a href="https://youtube.com/@RavshanovKamoliddin?si=j21kGGMSNsFO_uhQ">
 <img src="https://www.freeiconspng.com/uploads/classic-youtube-icon--2.png" width="40px">
@@ -9,7 +11,7 @@ QA Engineer man hamda Yuotubeda blog ham yuritaman, o'rgangan bilimlarimni uzbek
 
 <br />
 
-### Languages and tools I work with:
+### Languages ​​and tools I use:
 
 <code><img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/835/530/png-transparent-python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc-thumbnail.png" width="30px"></code>
