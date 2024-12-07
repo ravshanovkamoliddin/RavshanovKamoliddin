@@ -1,6 +1,6 @@
 ### Assalomu alaykum I'm Ravshanov Kamoliddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I am a QA Engineer and also have a blog on YouTube, to share my knowledge in Uzbek language 
+I am a Full-Stack QA Engineer and also have a blog on YouTube, to share my knowledge in Uzbek language 
 
 <br />
 
