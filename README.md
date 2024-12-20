@@ -22,7 +22,7 @@ I am a Full-Stack QA Engineer and also have a blog on YouTube, to share my knowl
 <code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="22px"></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:400/1*cxZhQbf-KuKU_wM8RGgofg.jpeg" width="30px"></code>
 <code><img src="https://cdn4.iconfinder.com/data/icons/smart-phones-technologies/512/iphone.png" width="35px"></code>
-<code><img src="[https://cdn4.iconfinder.com/data/icons/smart-phones-technologies/512/iphone.png](https://cdn.icon-icons.com/icons2/1095/PNG/512/1485476108-artboard-1_78541.png)" width="30px"></code>
+<code><img src="https://cdn3.iconfinder.com/data/icons/home-and-bussines/512/magifier_and_a_black_iphone_6-2-512.png" width="30px"></code>
 
 
 - 🕹️ Current Location: Samarqand Uzabekistan
