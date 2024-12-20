@@ -21,6 +21,8 @@ I am a Full-Stack QA Engineer and also have a blog on YouTube, to share my knowl
 <code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code> 
 <code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="22px"></code>
 <code><img src="https://miro.medium.com/v2/resize:fit:400/1*cxZhQbf-KuKU_wM8RGgofg.jpeg" width="30px"></code>
+<code><img src="https://cdn4.iconfinder.com/data/icons/smart-phones-technologies/512/iphone.png" width="30px"></code>
+
 
 - 🕹️ Current Location: Samarqand Uzabekistan
 -  📱 How to reach me: <a href="https://t.me/kamoliddin_ravshan">@kamoliddin_ravshan </a>
