@@ -18,6 +18,8 @@ I am a Full-Stack QA Engineer and also have a blog on YouTube, to share my knowl
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png" width="30px"></code>
+<code><img src="https://2384395183-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fn5KVIOjVkVjYRyVWZ0yT%2Ficon%2FiWOlXXbwVTJ9BL1NdnUu%2Ficon-w-bg.svg?alt=media&token=db2884aa-e09e-4296-b8c7-ac8f1c709343" width="30px"></code>
+
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBhbyU2Nnqw6KKkaNgdKrlKx1-uAzdfdoGMkVM_3DiQ&s" width="70px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/google-chrome-dev-icon-507x512-r0npv0xl.png" width="30px"></code> 
 <code><img src="https://ih1.redbubble.net/image.5011698135.4574/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="22px"></code>
