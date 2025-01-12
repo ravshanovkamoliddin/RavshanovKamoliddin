@@ -60,6 +60,7 @@
 + [Telegram](https://t.me/kamoliddin_ravshan)
 + [LinkedIn](https://www.linkedin.com/in/ravshanovkamoliddin)
 + Email: rkamoliddin1991@gmail.com
++ My Youtube channel: [Youtube](https://www.youtube.com/@RavshanovKamoliddin)
 
 _Thank you for your attention_
 ___
