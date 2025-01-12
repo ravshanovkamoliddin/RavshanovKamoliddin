@@ -1,5 +1,5 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi everyone! Welcome to my GitHub</h2>
-<h3 align="center">I'm Kamoliddin,Full-Stack QA  Engineer from "there is a delicious dish" Uzbekistan(UZ) :anchor::sun_behind_rain_cloud:</h3>
+<h3 align="center">I'm Kamoliddin,Full-Stack QA  Engineer from "there is a delicious dish" Uzbekistan(UZ) :anchor::sun_rain_cloud:</h3>
 <h3 align="center">But at the moment I live in Samarkand </h3>
 <h3 align="center"></h3>
 
