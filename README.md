@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h2 align="center">:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">: Hi everyone! Welcome to my GitHub</h2>
 <h3 align="center">I'm Kamoliddin,Full-Stack QA  Engineer from "there is a delicious dish" Uzbekistan(UZ) :anchor::sun_behind_rain_cloud:</h3>
 <h3 align="center">But at the moment I live in Samarkand </h3>
 <h3 align="center"></h3>
@@ -9,7 +9,7 @@
 
 - :keyboard: I have been doing automation and programming for about **1 years**
 
-- :snowflake: I'm currently working company [RealSoft](https://realsoft.uz/) 
+- :snowflake: I'm currently working company [RealSoft.uz](https://realsoft.uz/) 
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
 
@@ -50,13 +50,13 @@
 :walking_man: <code><strong>*Having enjoy for a walk*</strong></code>
 
 ### :email:	Connect with me:
-+ [Telegram]https://t.me/kamoliddin_ravshan)
++ [Telegram](https://t.me/kamoliddin_ravshan)
 + [LinkedIn](https://www.linkedin.com/in/ravshanovkamoliddin)
 + Email: rkamoliddin1991@gmail.com
 
 _Thank you for your attention_
 ___
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavshanovKamoliddin-spb&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexstark-spb&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RavshanovKamoliddin-spb&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
 
