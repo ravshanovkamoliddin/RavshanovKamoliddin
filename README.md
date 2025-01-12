@@ -60,7 +60,7 @@
 
 _Thank you for your attention_
 ___
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavshanovKamoliddin-spb&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavshanovKamoliddin&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="alexstark-spb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RavshanovKamoliddin-spb&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RavshanovKamoliddin&theme=great-gatsby&show_icons=true&locale=en" alt="alexstark-spb" /></p>
 
