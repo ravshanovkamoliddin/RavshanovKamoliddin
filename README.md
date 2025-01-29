@@ -42,8 +42,8 @@
 
 ### My latest project:
 #### Ui tests:
-#### - [Automation test Ecommerce app ''](https://github.com/RavshanovKamoliddin/Appium_Android_IOS_Test)
-#### - [Project Selenium Web Driver : demoqa.com'](https://github.com/RavshanovKamoliddin/SeleniumWebDriverJava.git)
+#### - [Automation test Ecommerce app](https://github.com/RavshanovKamoliddin/Appium_Android_IOS_Test)
+#### - [Project Selenium Web Driver : demoqa.com](https://github.com/RavshanovKamoliddin/SeleniumWebDriverJava.git)
 #### - [Automation test Maestro new framework: API Demos app](https://github.com/RavshanovKamoliddin/maestro.git)
 
 ### :open_umbrella: When I'm not testing or programming you can find me:
