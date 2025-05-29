@@ -13,7 +13,7 @@
 
 - :keyboard: I have been doing automation and programming for about **1 years**
 
-- :snowflake: I'm currently working company [RealSoft.uz](https://global.uz/) 
+- :snowflake: I'm currently working company [Global.uz](https://global.uz/) 
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
 
